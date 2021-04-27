@@ -14,4 +14,6 @@ After selecting my dataset Pyspark was utilized to perform the ETL process by ex
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars? 15,711 5-star reviews, and 5,663 non-vine 5-star reviews
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars? 38.2% of the five_star reviews were vine, and 38.9% of the five_star reviews were non-vine
 
+## Summary:
 
+It would appear as if there is in fact no noticeable bias due to the fact that the percentage of five-star reviews from vine and non-vine customers are very close. In conclusion we can confidently say that there is no significant bias.
