@@ -17,3 +17,6 @@ After selecting my dataset Pyspark was utilized to perform the ETL process by ex
 ## Summary:
 
 It would appear as if there is in fact no noticeable bias due to the fact that the percentage of five-star reviews from vine and non-vine customers are very close. In conclusion we can confidently say that there is no significant bias.
+
+
+* Note: All images that are screen shots are mine. All other photos are sourced from Google Images.
